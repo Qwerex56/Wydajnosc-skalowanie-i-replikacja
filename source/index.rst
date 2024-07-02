@@ -7,10 +7,10 @@ Welcome to Wydajnosc-skalowanie-i-replikacja's documentation!
 =============================================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+	:maxdepth: 3
+	:caption: Contents:
 
-
+	Wydajnosc-skalowanie-i-replikacja
 
 Indices and tables
 ==================
